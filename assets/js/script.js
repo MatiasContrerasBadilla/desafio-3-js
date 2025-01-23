@@ -12,7 +12,7 @@ ele.addEventListener("click", function(){
 
 // Ejercicio 2.3
 
-const ele = document.getElementById("ele1");
+const ele = document.getElementById(".ele1");
 pintar = function (elemento, color){
     elemento.style.backgroundColor = color;
 }
